@@ -113,4 +113,4 @@ This expense tracker is designed with accessibility in mind:
 
 ---
 
-**Built with ❤️ for better financial awareness**
+**Built for better financial awareness**
